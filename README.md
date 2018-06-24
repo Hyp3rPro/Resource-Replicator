@@ -40,5 +40,3 @@ Credits
 [MGW] Henry - Created Original Duplication Mod Which this one is inspired by  
 
 ===========================================================
-
-[![Donate](https://i.imgur.com/vSxrCMS.png)](https://ko-fi.com/rusticfox)
